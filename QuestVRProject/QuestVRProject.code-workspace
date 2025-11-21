@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/*.meta": true,
+            "**/Library/": true,
+            "**/Temp/": true,
+            "**/Logs/": true
+        },
+        "omnisharp.useModernNet": false,
+        "dotnet.server.useOmnisharp": true
+    },
+    "extensions": {
+        "recommendations": [
+            "visualstudiotoolsforunity.vstuc",
+            "ms-dotnettools.csharp",
+            "kleber-swf.unity-code-snippets",
+            "tobiah.unity-tools"
+        ]
+    }
+}

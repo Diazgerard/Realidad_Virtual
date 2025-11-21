@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Unity Editor",
+            "type": "unity",
+            "request": "launch"
+        },
+        {
+            "name": "Unity Android Player",
+            "type": "unity",
+            "request": "launch"
+        }
+    ]
+}
